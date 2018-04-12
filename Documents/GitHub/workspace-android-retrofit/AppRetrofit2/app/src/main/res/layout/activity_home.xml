@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5fb0c9"
+    android:orientation="vertical"
+    android:scrollbarAlwaysDrawVerticalTrack="true">
+
+    <TextView
+        android:id="@+id/login_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="22dp"
+        android:gravity="center_horizontal"
+        android:text="Welcome Home Activity"
+        android:textColor="#fff"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/logout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="94dp"
+        android:gravity="center_horizontal"
+        android:text="Retrofit2"
+        android:textColor="#fff"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
