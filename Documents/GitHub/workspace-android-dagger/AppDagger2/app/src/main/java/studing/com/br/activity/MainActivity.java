@@ -12,6 +12,10 @@ import studing.com.br.model.ErrorMessage;
 import studing.com.br.model.LogMessage;
 import studing.com.br.model.ToastMessage;
 
+/**
+ * emerson delfino
+ */
+
 public class MainActivity extends Activity {
 
     @Inject

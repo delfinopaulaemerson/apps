@@ -7,6 +7,10 @@ import studing.com.br.activity.MainActivity;
 import studing.com.br.model.LogMessage;
 import studing.com.br.module.MessageModule;
 
+/**
+ * emerson delfino
+ */
+
 @Component(modules = {MessageModule.class, LogMessage.class})
 @Singleton
 public interface AppComponent {

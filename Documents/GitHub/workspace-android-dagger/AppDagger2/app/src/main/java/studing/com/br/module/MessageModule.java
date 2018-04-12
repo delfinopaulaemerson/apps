@@ -7,6 +7,9 @@ import dagger.Provides;
 import studing.com.br.model.ErrorMessage;
 import studing.com.br.model.ToastMessage;
 
+/**
+ * emerson delfino
+ */
 @Module
 public class MessageModule {
 

@@ -2,6 +2,9 @@ package studing.com.br.model;
 
 import javax.inject.Inject;
 
+/**
+ * emerson delfino
+ */
 public class ErrorMessage {
 
     @Inject

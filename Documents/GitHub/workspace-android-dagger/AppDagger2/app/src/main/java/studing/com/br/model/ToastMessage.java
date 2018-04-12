@@ -4,6 +4,9 @@ import javax.inject.Inject;
 
 import dagger.Module;
 
+/**
+ * emerson delfino
+ */
 @Module
 public class ToastMessage {
 
